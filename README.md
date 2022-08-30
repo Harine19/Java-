@@ -1,2 +1,2 @@
-# Java-
-Java programs - OOPS
+# Java
+Java programs - Object oriented progrogramming
