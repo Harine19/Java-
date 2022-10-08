@@ -1,2 +1,4 @@
 # Java
-Java programs - Object oriented progrogramming
+
+1. Basic programs - *sum
+*sumuserinput
